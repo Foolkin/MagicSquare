@@ -1,4 +1,4 @@
-package com.anotheria.net.bootcamp.magicsquare.multithreaded.main;
+package com.anotheria.net.bootcamp.magicsquare.multiThread;
 
 import com.anotheria.net.bootcamp.magicsquare.MagicSquareMaker;
 import com.anotheria.net.bootcamp.magicsquare.MagicSquareWriter;

@@ -1,4 +1,4 @@
-package com.anotheria.net.bootcamp.magicsquare.singleThread.main;
+package com.anotheria.net.bootcamp.magicsquare.singleThread;
 
 import com.anotheria.net.bootcamp.magicsquare.MagicSquareMaker;
 import com.anotheria.net.bootcamp.magicsquare.MagicSquareWriter;
@@ -16,7 +16,7 @@ public class Main {
     /**
      * Dimension of square
      */
-    private static int N = 3;
+    private static int N = 5;
 
     /**
      * Entry point.

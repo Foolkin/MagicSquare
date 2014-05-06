@@ -1,4 +1,4 @@
-package com.anotheria.net.bootcamp.magicsquare.multithreaded.main;
+package com.anotheria.net.bootcamp.magicsquare.multiThread;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -11,7 +11,7 @@ public class Main {
     /**
      * Dimension of square
      */
-    private static int N = 3;
+    private static int N = 5;
 
     /**
      * Entry point.

@@ -26,6 +26,7 @@
     <modules>
         <module>SingleThread</module>
         <module>MultiThreaded</module>
+        <module>Square</module>
     </modules>
 
 
